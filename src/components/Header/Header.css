@@ -1,0 +1,14 @@
+header{
+    background: url('../../image/header.jpg');
+    height: 250px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+header h1{
+    color: #ffff;
+    text-transform: uppercase;
+    font-size: 35px;
+}
