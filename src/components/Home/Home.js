@@ -1,4 +1,3 @@
-import React, { useEffect, useState } from 'react'
 import Header from '../Header/Header'
 import Team from '../Team/Team'
 import './Home.css'

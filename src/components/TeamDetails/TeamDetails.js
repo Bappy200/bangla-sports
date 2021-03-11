@@ -21,7 +21,6 @@ function TeamDetails() {
         .then(data => setTeam(data.teams[0]))
     },[id]);
 
-    console.log(team)
     const {strDescriptionEN,strDescriptionES,strTeamBadge,strTeamBanner,intFormedYear,strCountry,strFacebook,strTwitter,strYoutube,strTeam,strGender,strStadium} = team;
     return (
 
