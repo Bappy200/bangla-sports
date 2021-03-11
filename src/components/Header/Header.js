@@ -4,7 +4,7 @@ import './Header.css'
 function Header() {
     return (
         <header>
-            <h1>Tame Tacker</h1>
+            <h1>Bangla Tiger Soprts</h1>
         </header>
     )
 }
